@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6af5618ae83825dcf9fdabcf"
+  },
+  "name": "Ahmed",
+  "age": 76,
+  "city": "Mogadishu",
+  "course": "Full Stack Development",
+  "skills": [
+    "GIT and github"
+  ],
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6af5618ae83825dcf9fdabd0"
+  },
+  "name": "Ali",
+  "age": 78,
+  "city": "Hargeisa",
+  "course": "Full Stack Development",
+  "point": 8,
+  "skills": [
+    "GIT and github"
+  ],
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6af5618ae83825dcf9fdabd1"
+  },
+  "name": "Hassan",
+  "age": 81,
+  "city": "Kismayo",
+  "course": "Full Stack Development",
+  "skills": [
+    "GIT and github"
+  ],
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6af5618ae83825dcf9fdabd2"
+  },
+  "name": "Omar",
+  "age": 77,
+  "city": "Garowe",
+  "course": "Full Stack Development",
+  "skills": [
+    "GIT and github"
+  ],
+  "status": "Active"
+}]
