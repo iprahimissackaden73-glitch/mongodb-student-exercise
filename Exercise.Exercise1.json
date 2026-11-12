@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c24"
+  },
+  "name": "Ahmed Ali",
+  "age": 20,
+  "gender": "Male",
+  "course": "Full Stack Development",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c25"
+  },
+  "name": "Aisha Hassan",
+  "age": 22,
+  "gender": "Female",
+  "course": "Web Development",
+  "city": "Hargeisa",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c26"
+  },
+  "name": "Mohamed Omar",
+  "age": 21,
+  "gender": "Male",
+  "course": "AI Engineering",
+  "city": "Garowe",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c27"
+  },
+  "name": "Fatima Abdullahi",
+  "age": 19,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c28"
+  },
+  "name": "Abdi Jama",
+  "age": 23,
+  "gender": "Male",
+  "course": "Cybersecurity",
+  "city": "Kismayo",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c29"
+  },
+  "name": "Maryan Ahmed",
+  "age": 20,
+  "gender": "Female",
+  "course": "Full Stack Development",
+  "city": "Bosaso",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c2a"
+  },
+  "name": "Yusuf Mohamed",
+  "age": 24,
+  "gender": "Male",
+  "course": "Data Science",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c2b"
+  },
+  "name": "Hodan Ali",
+  "age": 21,
+  "gender": "Female",
+  "course": "AI Engineering",
+  "city": "Hargeisa",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c2c"
+  },
+  "name": "Abdullahi Hassan",
+  "age": 22,
+  "gender": "Male",
+  "course": "Web Development",
+  "city": "Galkayo",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53edbe5d8127490f84c2d"
+  },
+  "name": "Sahra Omar",
+  "age": 19,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true
+}]
