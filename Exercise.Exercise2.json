@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c2e"
+  },
+  "name": "mohamed Ali",
+  "age": 16,
+  "gender": "Male",
+  "course": "Full Stack Development",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c2f"
+  },
+  "name": "Aisha Hassan",
+  "age": 22,
+  "gender": "Female",
+  "course": "Web Development",
+  "city": "Hargeisa",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c30"
+  },
+  "name": "Mohamed Omar",
+  "age": 21,
+  "gender": "Male",
+  "course": "AI Engineering",
+  "city": "Garowe",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c31"
+  },
+  "name": "Fatima Abdullahi",
+  "age": 19,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c32"
+  },
+  "name": "Abdi Jama",
+  "age": 15,
+  "gender": "Male",
+  "course": "Cybersecurity",
+  "city": "Kismayo",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c33"
+  },
+  "name": "Maryan Ahmed",
+  "age": 20,
+  "gender": "Female",
+  "course": "Full Stack Development",
+  "city": "Bosaso",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c34"
+  },
+  "name": "Yusuf Mohamed",
+  "age": 24,
+  "gender": "Male",
+  "course": "Data Science",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c35"
+  },
+  "name": "Hodan Ali",
+  "age": 21,
+  "gender": "Female",
+  "course": "AI Engineering",
+  "city": "Hargeisa",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c36"
+  },
+  "name": "Abdullahi Hassan",
+  "age": 22,
+  "gender": "Male",
+  "course": "Web Development",
+  "city": "Galkayo",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53f60e5d8127490f84c37"
+  },
+  "name": "Sahra Omar",
+  "age": 19,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c38"
+  },
+  "name": "Ahmed Ali",
+  "age": 20,
+  "gender": "Male",
+  "course": [
+    "react",
+    "java"
+  ],
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c39"
+  },
+  "name": "Aisha Hassan",
+  "age": 22,
+  "gender": "Female",
+  "course": "Web Development",
+  "city": "Hargeisa",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3a"
+  },
+  "name": "Mohamed Omar",
+  "age": 21,
+  "gender": "Male",
+  "course": "AI Engineering",
+  "city": "Garowe",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3b"
+  },
+  "name": "Fatima Abdullahi",
+  "age": 19,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3c"
+  },
+  "name": "Abdi Jama",
+  "age": 30,
+  "gender": "Male",
+  "course": "Cybersecurity",
+  "city": "Kismayo",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3d"
+  },
+  "name": "Maryan Ahmed",
+  "age": 20,
+  "gender": "Female",
+  "course": "Full Stack Development",
+  "city": "Bosaso",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3e"
+  },
+  "name": "Yusuf Mohamed",
+  "age": 24,
+  "gender": "Male",
+  "course": "Data Science",
+  "city": "Mogadishu",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c3f"
+  },
+  "name": "Hodan Ali",
+  "age": 21,
+  "gender": "Female",
+  "course": "AI Engineering",
+  "city": "Hargeisa",
+  "isActive": false,
+  "email": "hodan@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c40"
+  },
+  "name": "Abdullahi Hassan",
+  "age": 22,
+  "gender": "Male",
+  "course": "Web Development",
+  "city": "Galkayo",
+  "isActive": true,
+  "email": "abdulaahiemail.com"
+},
+{
+  "_id": {
+    "$oid": "6af53fcbe5d8127490f84c41"
+  },
+  "name": "Sahra Omar",
+  "age": 29,
+  "gender": "Female",
+  "course": "Database Management",
+  "city": "Mogadishu",
+  "isActive": true,
+  "email": "sahra@gmail.com"
+}]
